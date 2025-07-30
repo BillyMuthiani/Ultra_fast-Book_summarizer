@@ -1,0 +1,9 @@
+streamlit
+cohere
+PyMuPDF
+nltk
+scikit-learn
+fpdf
+rapidfuzz
+gTTS
+piper-tts
